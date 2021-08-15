@@ -1,0 +1,104 @@
+{
+  "tvshow": [
+    {
+		"id": "t1",
+		"title": "Arrow",
+		"genre":"Crime, Drama, Mystery, Action, Adventure",
+		"duration":"42m",
+		"description": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+		"date": "10/10/2012",
+		"year":"2012",
+		"poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg"
+    },
+	{
+		"id":"t2",
+		"title":"Dragon Ball",
+		"genre":"Comedy, Science Fiction, Animation, Action, Adventure",
+		"duration":"25m",
+		"description":"Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy was on his own, but easily managed. Then one day, Goku met a teenage girl named Bulma, whose search for the mystical Dragon Balls brought her to Goku's home. Together, they set off to find all seven and to grant her wish.",
+		"date":"02/26/1986",
+		"year":"1986",
+		"poster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tZ0jXOeYBWPZ0OWzUhTlYvMF7YR.jpg"
+	},
+	{
+		"id":"t3",
+		"title":"Fairy Tail",
+		"genre":"Action, Adventure, Animation, Comedy, Science Fiction, Fantasy",
+		"duration":"25m",
+		"description":"Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn't just any ordinary kid, he's a member of one of the world's most infamous mage guilds: Fairy Tail.",
+		"date":"10/12/2009",
+		"year":"2009",
+		"poster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1T6XCwWpmg1B4jrzAlcFCnJGQVD.jpg"
+	},
+    {
+		"id": "t4",
+		"title": "Family Guy",
+		"genre": "Animation, Comedy",
+		"duration": "22m",
+		"description":"Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+		"date":"01/31/1999",
+		"year":"1999",
+		"poster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qlClTwL0GSGZUH7xwJU5PER5wnJ.jpg"
+    },
+    {
+		"id": "t5",
+		"title":"The Flash",
+		"genre":"Drama, Science Fiction, Fantasy",
+		"duration":"44m",
+		"description":"After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+		"date":"10/07/2014",
+		"year":"2014",
+		"poster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg"
+    },
+    {
+		"id": "t6",
+		"title":"Gotham",
+		"genre":"Drama, Crime, Science Fiction, Fantasy",
+		"duration":"43m",
+		"description":"Everyone knows the name Commissioner Gordon. He is one of the crime world's greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon's story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world's most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?",
+		"date":"09/22/2014",
+		"year":"2014",
+		"poster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg"
+    },
+    {
+		"id": "t7",
+		"title":"Grey's Anatomy",
+		"genre":"Drama",
+		"duration":"43m",
+		"description":"Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+		"date":"03/27/2005",
+		"year":"2005",
+		"poster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/clnyhPqj1SNgpAdeSS6a6fwE6Bo.jpg"
+    },
+	{
+		"id":"t8",
+		"title":"Naruto Shippūden",
+		"genre":"Animation, Action, Adventure, Science Fiction, Fantasy",
+		"duration":"25m",
+		"description":"Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki.",
+		"date":"02/15/2007",
+		"year":"2007",
+		"poster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hKkY4Hf5tDKCwVzzeo42vp1RxPQ.jpg"
+	},
+	{
+		"id":"t9",
+		"title":"The Simpsons",
+		"genre":"Family, Animation, Comedy",
+		"duration":"22m",
+		"description":"Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+		"date":"12/16/1989",
+		"year":"1989",
+		"poster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IWouZK4gkgHhJa3oyYuSWfSqbG.jpg"
+	},
+	{
+		"id":"t10",
+		"title":"The Walking Dead",
+		"genre":"Action, Adventure, Drama, Science Fiction, Fantasy",
+		"duration":"42m",
+		"description":"Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+		"date":"10/31/2010",
+		"year":"2010",
+		"poster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg"
+	}
+  ]
+}

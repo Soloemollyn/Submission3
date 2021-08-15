@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Submission3</string>
+    <string name="title_activity_detail_movie">Detail Movie</string>
+    <string name="title_activity_detail_tv_show">Detail TvShow</string>
+    <string name="title">Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="release_date_text">Release Date Text</string>
+    <string name="genre">Genre</string>
+    <string name="genre_text">Genre Text</string>
+    <string name="movie_overview">Movie Overview</string>
+    <string name="movie_overview_text">Movie Overview Text</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">TV Show</string>
+    <string name="fav_movie">Fav Movie</string>
+    <string name="fav_tvshow">Fav TV Show</string>
+    <string name="duration">Duration</string>
+    <string name="duration_text">Duration Text</string>
+    <string name="menu_favorite">Menu Favorite</string>
+    <string name="favorite_activity">Favorite Activity</string>
+    <string name="title_fav_activity">Favorite</string>
+    <string name="title_activity_detail_fav_movie">DetailFavMovieActivity</string>
+    <string name="title_activity_detail_fav_tv_show">DetailFavTvShowActivity</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+</resources>
